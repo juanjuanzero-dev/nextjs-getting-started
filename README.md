@@ -1,4 +1,4 @@
-# Next Js Training
+# Next Js Learning
 Goal is to get familiar enough with NextJs to build the application that someone asked me to build. So here goes.
 
 ```shell
@@ -20,4 +20,4 @@ You can use nexts <Image> component which comes with a few optimizations.
 
 
 # Resources 
-- https://nextjs.org/learn/dashboard-app/getting-startedF
+- https://nextjs.org/learn/dashboard-app/getting-started
