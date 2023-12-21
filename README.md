@@ -14,6 +14,9 @@ The layout.tsx file is the root level element.
 You can use [clsx](https://www.npmjs.com/package/clsx) to conditionally style elements based on a property on a component.
 
 # Chapter 3
+Next js has fonts that you can just add in. We added the `fonts.ts` file in app/ui directory so that we can bring in the Inter font, we used fonts in the `page.tsx` file
+
+You can use nexts <Image> component which comes with a few optimizations.
 
 
 # Resources 
