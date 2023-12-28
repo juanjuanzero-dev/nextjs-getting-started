@@ -46,9 +46,11 @@ When we created the layout component under dashbaord, this layout receives as `c
 
 There is a technology here called partial rendering. Where the page components would only render when you click into the invoices and customers pages. The dashboard does not render because of partial rendering on the layout. Thats the advantage of the layout component.
 
+### Understand what colocation, partial rendering, and the root layout are
+
 There is also the rootLayout under the app directory. This is the most base layout. Anything you add here will be shared across other layouts, where as the one under dashboard is unique to that only.
 
-### Understand what colocation, partial rendering, and the root layout are
+# Chapter 5
 
 # Resources
 
