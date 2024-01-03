@@ -51,6 +51,11 @@ There is a technology here called partial rendering. Where the page components w
 There is also the rootLayout under the app directory. This is the most base layout. Anything you add here will be shared across other layouts, where as the one under dashboard is unique to that only.
 
 # Chapter 5
+The `<Link />` component allows you to do client side navigation. This prevents page refreshes when a user navigates out of the link. 
+
+NextJs automatically code split the application code by route segments, which means that if we get an error in one route, it will not impact other routes. With the Link Component, nextjs automatically fetches the code linked in the route in the background, therefore it makes the transition near instant!
+
+# Chapter 6
 
 # Resources
 
