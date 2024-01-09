@@ -56,7 +56,7 @@ The `<Link />` component allows you to do client side navigation. This prevents 
 NextJs automatically code split the application code by route segments, which means that if we get an error in one route, it will not impact other routes. With the Link Component, nextjs automatically fetches the code linked in the route in the background, therefore it makes the transition near instant!
 
 # Chapter 6
-
+vercel offers a free postgres database in the hobby plan. The hobby plan is free so you are free to stand up whatever project you want.
 # Resources
 
 - https://nextjs.org/learn/dashboard-app/getting-started
